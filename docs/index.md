@@ -5,13 +5,13 @@ layout: home
 hero:
   name: MoMo AI Pet
   text: 摸摸桌宠
-  tagline: 会思考的桌宠，你的专属情感伙伴
+  tagline: 会思考的桌宠，创造你的专属情感伙伴
   actions:
     - theme: brand
       text: ⏬立即体验
       link: /markdown-examples
     - theme: alt
-      text: 📚教程
+      text: 📖教程
       link: /api-examples
     - theme: alt
       text: ☁️论坛
