@@ -1,1 +1,1 @@
-# aimopet.github.io
+# aimopet-book
