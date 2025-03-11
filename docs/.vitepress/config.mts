@@ -23,6 +23,7 @@ export default defineConfig({
         items: [
           { text: '开始', link: '/page/start' },
           { text: '教程', link: '/page/textbook' },
+          { text: '提示词的最佳实践', link: '/page/best-practices' },
         ],
       },
     ],
