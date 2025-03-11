@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '教程', link: '/markdown-examples' },
+      { text: '教程', link: '/page/start' },
       {
         text: '论坛',
         link: 'https://m.aimopet.com/forum.php',
@@ -19,14 +19,14 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '文档',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: '开始', link: '/page/start' },
+          { text: '教程', link: '/page/textbook' },
         ],
       },
     ],
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+    // socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
   },
 });

@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: ⏬立即体验
-      link: /markdown-examples
+      link: /page/start
     - theme: alt
       text: 📖教程
-      link: /api-examples
+      link: /page/textbook
     - theme: alt
       text: ☁️论坛
       target: _self
